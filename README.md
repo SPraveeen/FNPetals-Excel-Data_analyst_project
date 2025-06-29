@@ -5,9 +5,9 @@
 ### steps involved in complete project 
 
 ## Steps involved
-1. **Extract Data**
-2. **Cleaning**
-3. **Transformation**
-4. **Data Modeling**
-5. **Data Analysis**
-6. **Dashboard**
+1. **Extract Data** - power query editor
+2. **Cleaning** - power query editor
+3. **Transformation** - power query editor
+4. **Data Modeling**- power pivot
+5. **Data Analysis**- pivot tables and measures
+6. **Dashboard**- pivot tables and measures
